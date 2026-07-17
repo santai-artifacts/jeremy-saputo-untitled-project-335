@@ -1,0 +1,59 @@
+html{
+    font-size:18px;
+}
+
+body{
+
+    margin:0;
+    font-family:Georgia, serif;
+    background:white;
+    color:black;
+
+}
+
+.container{
+
+    width:min(700px,90%);
+    margin:80px auto;
+
+}
+
+h1{
+
+    font-weight:normal;
+    font-size:1.3rem;
+    margin-bottom:40px;
+
+}
+
+ul{
+
+    list-style:none;
+    padding:0;
+
+}
+
+li{
+
+    margin:12px 0;
+
+}
+
+a{
+
+    color:black;
+    text-decoration:none;
+
+}
+
+a:hover{
+
+    text-decoration:underline;
+
+}
+
+footer{
+
+    margin-top:80px;
+
+}
